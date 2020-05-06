@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.viceless"
+    package="com.evdev.viceless"
     android:targetSandboxVersion="2"
     android:versionCode="1"
     android:versionName="1.0" >
@@ -29,7 +29,7 @@
 
         <!-- For splash screen; applied this theme so we get rid of action bar -->
         <activity
-            android:name="com.example.viceless.SplashActivity"
+            android:name="com.evdev.viceless.SplashActivity"
             android:theme="@style/AppTheme.NoActionBar" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -37,19 +37,18 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.viceless.HomePageActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity
+            android:name="com.evdev.viceless.HomePageActivity"
+            android:theme="@style/AppTheme.NoActionBar" >
         </activity>
-        <activity android:name="com.example.viceless.MainActivity" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <activity android:name="com.evdev.viceless.MainActivity" >
+        </activity>
+        <activity
+            android:name="com.evdev.viceless.SmokingHomeActivity"
+            android:theme="@style/AppTheme2" />
+        <activity
+            android:name="com.evdev.viceless.SmokingIntroActivity"
+            android:theme="@style/AppTheme2" >
         </activity>
     </application>
 

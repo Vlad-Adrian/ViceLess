@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary"
+    tools:context=".SmokingIntroActivity">
+
+
+    <LinearLayout
+        android:id="@+id/indicatorsContainer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="32dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/skip_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="@string/skip"
+        android:textColor="@color/colorSecondaryText"
+        android:textSize="18dp"
+        android:textStyle="italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+<!--    android:backgroundTint="#35A2AF"-->
+<!--    android:backgroundTint="#36393F"-->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/buttonNext"
+        android:layout_width="94dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="8dp"
+        android:backgroundTint="@color/colorSecondaryText"
+        android:minWidth="90dp"
+        android:text="@string/next"
+        android:textColor="@color/colorPrimaryText"
+        android:textSize="14sp"
+
+        android:textStyle="bold"
+        app:cornerRadius="5dp"
+        app:layout_constraintBottom_toTopOf="@id/indicatorsContainer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <androidx.viewpager2.widget.ViewPager2
+        android:id="@+id/introSliderViewPager"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginBottom="10dp"
+        android:overScrollMode="never"
+        app:layout_constraintBottom_toTopOf="@+id/buttonNext"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <!--    <ImageView-->
+    <!--        android:id="@+id/imageView"-->
+    <!--        android:layout_width="wrap_content"-->
+    <!--        android:layout_height="wrap_content"-->
+    <!--        android:layout_marginBottom="32dp"-->
+    <!--        app:layout_constraintHorizontal_bias="0.5"-->
+    <!--        app:layout_constraintBottom_toBottomOf="parent"-->
+    <!--        app:layout_constraintEnd_toEndOf="parent"-->
+    <!--        app:layout_constraintStart_toStartOf="parent"-->
+    <!--        app:srcCompat="@drawable/intro_page_indicator" />-->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

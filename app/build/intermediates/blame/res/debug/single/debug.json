@@ -1,94 +1,174 @@
 [
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_image3.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\intro_image3.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_menu_button.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_menu_button.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/layout/activity_main.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nosmoking.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\nosmoking.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable_nosmoking.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable/nosmoking.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_nodrugs.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\nodrugs.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable/ic_launcher_background.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable-v24_viceless.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable-v24/viceless.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_page.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\layout\\activity_home_page.xml"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_text_placeholder.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\intro_text_placeholder.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable_rounded_frame_layout.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable/rounded_frame_layout.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_danger_icon1.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_danger_icon1.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_page_indicator.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\intro_page_indicator.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/layout/activity_splash.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable_noalcohol.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable/noalcohol.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\layout_slide_item_container.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\layout\\slide_item_container.xml"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circular.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\circular.xml"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable_nodrugs.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable/nodrugs.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_image1.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\intro_image1.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rectangle_container.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\rectangle_container.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/drawable-v24_logo.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/drawable-v24/logo.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_wrapper2.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_wrapper2.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_wrapper.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_wrapper.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/layout_activity_home_page.xml.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/layout/activity_home_page.xml"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_intro_image2.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\intro_image2.png"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_active.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\indicator_active.xml"
     },
     {
-        "merged": "/home/vlad/AndroidStudioProjects/Viceless/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/home/vlad/AndroidStudioProjects/Viceless/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_logo.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable-v24\\logo.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_viceless_logo.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_viceless_logo.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_inactive.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\indicator_inactive.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rounded_frame_layout.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\rounded_frame_layout.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_home_viceless.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_home_viceless.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_viceless.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable-v24\\viceless.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_noalcohol.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\noalcohol.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_money_icon.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_money_icon.png"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smoking_home.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\layout\\activity_smoking_home.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_smoking_intro.xml.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\layout\\activity_smoking_intro.xml"
+    },
+    {
+        "merged": "D:\\Viceless\\app\\build\\intermediates\\res\\merged\\debug\\drawable_smoking_wrapper3.png.flat",
+        "source": "D:\\Viceless\\app\\src\\main\\res\\drawable\\smoking_wrapper3.png"
     }
 ]

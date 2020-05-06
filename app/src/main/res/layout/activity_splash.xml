@@ -34,7 +34,7 @@
         android:gravity="center"
         android:layout_marginTop="60dp" />
     <TextView
-        android:id="@+id/company"
+        android:id="@+id/company2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="EV-DEV"

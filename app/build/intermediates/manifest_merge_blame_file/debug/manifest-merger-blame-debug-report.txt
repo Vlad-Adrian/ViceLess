@@ -1,92 +1,88 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.example.viceless"
+3    package="com.evdev.viceless"
 4    android:versionCode="1"
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="23"
-8-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml
+8-->D:\Viceless\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="29" />
-9-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml
+9-->D:\Viceless\app\src\main\AndroidManifest.xml
 10
 11    <supports-screens
-11-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:5:5-9:39
+11-->D:\Viceless\app\src\main\AndroidManifest.xml:5:5-9:39
 12        android:largeScreens="true"
-12-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:6:9-36
+12-->D:\Viceless\app\src\main\AndroidManifest.xml:6:9-36
 13        android:normalScreens="true"
-13-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:7:9-37
+13-->D:\Viceless\app\src\main\AndroidManifest.xml:7:9-37
 14        android:smallScreens="true"
-14-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:8:9-36
+14-->D:\Viceless\app\src\main\AndroidManifest.xml:8:9-36
 15        android:xlargeScreens="true" />
-15-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:9:9-37
+15-->D:\Viceless\app\src\main\AndroidManifest.xml:9:9-37
 16
 17    <application
-17-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:11:5-42:19
+17-->D:\Viceless\app\src\main\AndroidManifest.xml:11:5-41:19
 18        android:allowBackup="true"
-18-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:12:9-35
+18-->D:\Viceless\app\src\main\AndroidManifest.xml:12:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-19-->[androidx.core:core:1.2.0] /home/vlad/.gradle/caches/transforms-2/files-2.1/d4e2c990a93746e8625fbcf721f3c4e7/core-1.2.0/AndroidManifest.xml:24:18-86
+19-->[androidx.core:core:1.3.0-alpha02] C:\Users\vlad.adrian\.gradle\caches\transforms-2\files-2.1\3b6355137afb9fc79efad39e6525bc1f\core-1.3.0-alpha02\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:extractNativeLibs="false"
 22        android:icon="@mipmap/ic_launcher"
-22-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:13:9-43
+22-->D:\Viceless\app\src\main\AndroidManifest.xml:13:9-43
 23        android:label="@string/app_name"
-23-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:14:9-41
+23-->D:\Viceless\app\src\main\AndroidManifest.xml:14:9-41
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:15:9-54
+24-->D:\Viceless\app\src\main\AndroidManifest.xml:15:9-54
 25        android:supportsRtl="true"
-25-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:16:9-35
+25-->D:\Viceless\app\src\main\AndroidManifest.xml:16:9-35
 26        android:testOnly="true"
 27        android:theme="@style/AppTheme" >
-27-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:17:9-40
+27-->D:\Viceless\app\src\main\AndroidManifest.xml:17:9-40
 28
 29        <!-- For splash screen; applied this theme so we get rid of action bar -->
 30        <activity
-30-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:19:9-27:20
-31            android:name="com.example.viceless.SplashActivity"
-31-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:20:13-43
+30-->D:\Viceless\app\src\main\AndroidManifest.xml:19:9-26:20
+31            android:name="com.evdev.viceless.SplashActivity"
+31-->D:\Viceless\app\src\main\AndroidManifest.xml:20:13-43
 32            android:theme="@style/AppTheme.NoActionBar" >
-32-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:21:13-56
+32-->D:\Viceless\app\src\main\AndroidManifest.xml:21:13-56
 33            <intent-filter>
-33-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:22:13-26:29
+33-->D:\Viceless\app\src\main\AndroidManifest.xml:22:13-25:29
 34                <action android:name="android.intent.action.MAIN" />
-34-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:23:17-69
-34-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:23:25-66
+34-->D:\Viceless\app\src\main\AndroidManifest.xml:23:17-69
+34-->D:\Viceless\app\src\main\AndroidManifest.xml:23:25-66
 35
 36                <category android:name="android.intent.category.LAUNCHER" />
-36-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:25:17-77
-36-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:25:27-74
+36-->D:\Viceless\app\src\main\AndroidManifest.xml:24:17-77
+36-->D:\Viceless\app\src\main\AndroidManifest.xml:24:27-74
 37            </intent-filter>
 38        </activity>
-39        <activity android:name="com.example.viceless.HomePageActivity" >
-39-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:28:9-34:20
-39-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:28:19-51
-40            <intent-filter>
-40-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:22:13-26:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:23:17-69
-41-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:23:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:25:17-77
-43-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:25:27-74
-44            </intent-filter>
-45        </activity>
-46        <activity android:name="com.example.viceless.MainActivity" >
-46-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:35:9-41:20
-46-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:35:19-47
-47            <intent-filter>
-47-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:22:13-26:29
-48                <action android:name="android.intent.action.MAIN" />
-48-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:23:17-69
-48-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:23:25-66
-49
-50                <category android:name="android.intent.category.LAUNCHER" />
-50-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:25:17-77
-50-->/home/vlad/AndroidStudioProjects/Viceless/app/src/main/AndroidManifest.xml:25:27-74
-51            </intent-filter>
-52        </activity>
-53    </application>
-54
-55</manifest>
+39        <activity
+39-->D:\Viceless\app\src\main\AndroidManifest.xml:28:9-30:20
+40            android:name="com.evdev.viceless.HomePageActivity"
+40-->D:\Viceless\app\src\main\AndroidManifest.xml:28:19-51
+41            android:theme="@style/AppTheme.NoActionBar" >
+41-->D:\Viceless\app\src\main\AndroidManifest.xml:29:13-56
+42        </activity>
+43        <activity android:name="com.evdev.viceless.MainActivity" >
+43-->D:\Viceless\app\src\main\AndroidManifest.xml:32:9-33:20
+43-->D:\Viceless\app\src\main\AndroidManifest.xml:32:19-47
+44        </activity>
+45        <activity
+45-->D:\Viceless\app\src\main\AndroidManifest.xml:35:9-36:47
+46            android:name="com.evdev.viceless.SmokingHomeActivity"
+46-->D:\Viceless\app\src\main\AndroidManifest.xml:35:19-54
+47            android:theme="@style/AppTheme2" />
+47-->D:\Viceless\app\src\main\AndroidManifest.xml:36:13-45
+48        <activity
+48-->D:\Viceless\app\src\main\AndroidManifest.xml:38:9-40:20
+49            android:name="com.evdev.viceless.SmokingIntroActivity"
+49-->D:\Viceless\app\src\main\AndroidManifest.xml:38:19-55
+50            android:theme="@style/AppTheme2" >
+50-->D:\Viceless\app\src\main\AndroidManifest.xml:39:13-45
+51        </activity>
+52    </application>
+53
+54</manifest>
